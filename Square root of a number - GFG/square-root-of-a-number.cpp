@@ -9,10 +9,10 @@ using namespace std;
 // x: element to find square root
 class Solution{
   public:
-    long long int floorSqrt(long long int x) 
-    {
-        // Your code goes here 
-        int s=0;
+  
+  
+  long long int squareRoot(long long int x){
+      int s=0;
         int e=x;
         long long int mid=s+(e-s)/2;
         long long int ans=-1;
@@ -31,6 +31,12 @@ class Solution{
             mid=s+(e-s)/2;
         }
         return ans;
+  }
+    long long int floorSqrt(long long int x) 
+    {
+        // Your code goes here 
+        return squareRoot(x);
+        
     }
 };
 

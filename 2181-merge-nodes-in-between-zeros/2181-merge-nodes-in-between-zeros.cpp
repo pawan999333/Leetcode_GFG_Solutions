@@ -17,7 +17,7 @@ public:
         
         while(p2 != NULL){
             int sum=0;
-            while(p2 != NULL && p2->val !=0){
+            while( p2->val !=0){
                 sum +=p2->val;
                 p2=p2->next;
             }

@@ -2,13 +2,13 @@ class Solution {
 public:
     char findTheDifference(string s, string t) {
         
-        int XOR=0;
-        for(char &ch:s){
-            XOR^=ch;
+        char ans=s[0];
+        for(int i=1;i<s.length();i++){
+            ans=ans^s[i];
         }
-        for(char &ch:t){
-            XOR^=ch;
+        for(int i=0;i<t.length();i++){
+            ans=ans^t[i];
         }
-        return (char)XOR;
+        return ans;
     }
 };

@@ -10,24 +10,32 @@ class Solution {
     void transpose(vector<vector<int>>& mat, int n) {
         // code here
         // vector<vector<int>>arr(n,vector<int>(n));
-        int arr[n][n];
+        // int arr[n][n];
         
-        for(int i=0;i<n;i++){
-            for(int j=0;j<n;j++){
-                arr[j][i]=mat[i][j];
-            }
-        }
-        for(int i=0;i<n;i++){
-            for(int j=0;j<n;j++){
-                mat[i][j]=arr[i][j];
-            }
-        }
+        // for(int i=0;i<n;i++){
+        //     for(int j=0;j<n;j++){
+        //         arr[j][i]=mat[i][j];
+        //     }
+        // }
+        // for(int i=0;i<n;i++){
+        //     for(int j=0;j<n;j++){
+        //         mat[i][j]=arr[i][j];
+        //     }
+        // }
         // for(int i=0;i<n;i++){
         //     for(int j=0;j<n;j++){
         //         cout<<arr[i][j]<<" ";
         //     }
         //     cout<<endl;
         // }
+        
+        for(int i=0;i<n;i++){
+            for(int j=0;j<n;j++){
+                if(i<j){
+                    swap(mat[i][j],mat[j][i]);
+                }
+            }
+        }
     }
 };
 

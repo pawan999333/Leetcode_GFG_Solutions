@@ -4,12 +4,14 @@
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/pawan999333/Leetcode_GFG_Solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/pawan999333/Leetcode_GFG_Solutions/tree/master/0054-spiral-matrix) |
 | [0898-transpose-matrix](https://github.com/pawan999333/Leetcode_GFG_Solutions/tree/master/0898-transpose-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/pawan999333/Leetcode_GFG_Solutions/tree/master/1677-matrix-diagonal-sum) |
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/pawan999333/Leetcode_GFG_Solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/pawan999333/Leetcode_GFG_Solutions/tree/master/0054-spiral-matrix) |
 | [0898-transpose-matrix](https://github.com/pawan999333/Leetcode_GFG_Solutions/tree/master/0898-transpose-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/pawan999333/Leetcode_GFG_Solutions/tree/master/1677-matrix-diagonal-sum) |
@@ -18,4 +20,8 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/pawan999333/Leetcode_GFG_Solutions/tree/master/0054-spiral-matrix) |
 | [0898-transpose-matrix](https://github.com/pawan999333/Leetcode_GFG_Solutions/tree/master/0898-transpose-matrix) |
+## Math
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/pawan999333/Leetcode_GFG_Solutions/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->

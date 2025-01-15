@@ -47,4 +47,12 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/pawan999333/Leetcode_GFG_Solutions/tree/master/0169-majority-element) |
+## Two Pointers
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/pawan999333/Leetcode_GFG_Solutions/tree/master/0344-reverse-string) |
+## String
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/pawan999333/Leetcode_GFG_Solutions/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->

@@ -55,4 +55,5 @@
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/pawan999333/Leetcode_GFG_Solutions/tree/master/0344-reverse-string) |
+| [1205-defanging-an-ip-address](https://github.com/pawan999333/Leetcode_GFG_Solutions/tree/master/1205-defanging-an-ip-address) |
 <!---LeetCode Topics End-->

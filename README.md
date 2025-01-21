@@ -49,6 +49,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/pawan999333/Leetcode_GFG_Solutions/tree/master/0169-majority-element) |
+| [2887-sort-vowels-in-a-string](https://github.com/pawan999333/Leetcode_GFG_Solutions/tree/master/2887-sort-vowels-in-a-string) |
 ## Counting
 |  |
 | ------- |
@@ -64,6 +65,7 @@
 | [0409-longest-palindrome](https://github.com/pawan999333/Leetcode_GFG_Solutions/tree/master/0409-longest-palindrome) |
 | [1205-defanging-an-ip-address](https://github.com/pawan999333/Leetcode_GFG_Solutions/tree/master/1205-defanging-an-ip-address) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/pawan999333/Leetcode_GFG_Solutions/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [2887-sort-vowels-in-a-string](https://github.com/pawan999333/Leetcode_GFG_Solutions/tree/master/2887-sort-vowels-in-a-string) |
 ## Greedy
 |  |
 | ------- |

@@ -29,6 +29,7 @@
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/pawan999333/Leetcode_GFG_Solutions/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/pawan999333/Leetcode_GFG_Solutions/tree/master/0048-rotate-image) |
 | [0415-add-strings](https://github.com/pawan999333/Leetcode_GFG_Solutions/tree/master/0415-add-strings) |
 ## Binary Search
@@ -39,6 +40,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/pawan999333/Leetcode_GFG_Solutions/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/pawan999333/Leetcode_GFG_Solutions/tree/master/0169-majority-element) |
 | [0409-longest-palindrome](https://github.com/pawan999333/Leetcode_GFG_Solutions/tree/master/0409-longest-palindrome) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/pawan999333/Leetcode_GFG_Solutions/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -63,6 +65,7 @@
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/pawan999333/Leetcode_GFG_Solutions/tree/master/0013-roman-to-integer) |
 | [0344-reverse-string](https://github.com/pawan999333/Leetcode_GFG_Solutions/tree/master/0344-reverse-string) |
 | [0409-longest-palindrome](https://github.com/pawan999333/Leetcode_GFG_Solutions/tree/master/0409-longest-palindrome) |
 | [0415-add-strings](https://github.com/pawan999333/Leetcode_GFG_Solutions/tree/master/0415-add-strings) |

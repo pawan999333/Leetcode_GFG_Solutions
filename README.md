@@ -9,6 +9,7 @@
 | [0074-search-a-2d-matrix](https://github.com/pawan999333/Leetcode_GFG_Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/pawan999333/Leetcode_GFG_Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0169-majority-element](https://github.com/pawan999333/Leetcode_GFG_Solutions/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/pawan999333/Leetcode_GFG_Solutions/tree/master/0268-missing-number) |
 | [0898-transpose-matrix](https://github.com/pawan999333/Leetcode_GFG_Solutions/tree/master/0898-transpose-matrix) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/pawan999333/Leetcode_GFG_Solutions/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1677-matrix-diagonal-sum](https://github.com/pawan999333/Leetcode_GFG_Solutions/tree/master/1677-matrix-diagonal-sum) |
@@ -31,18 +32,21 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/pawan999333/Leetcode_GFG_Solutions/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/pawan999333/Leetcode_GFG_Solutions/tree/master/0048-rotate-image) |
+| [0268-missing-number](https://github.com/pawan999333/Leetcode_GFG_Solutions/tree/master/0268-missing-number) |
 | [0415-add-strings](https://github.com/pawan999333/Leetcode_GFG_Solutions/tree/master/0415-add-strings) |
 ## Binary Search
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/pawan999333/Leetcode_GFG_Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/pawan999333/Leetcode_GFG_Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0268-missing-number](https://github.com/pawan999333/Leetcode_GFG_Solutions/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/pawan999333/Leetcode_GFG_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/pawan999333/Leetcode_GFG_Solutions/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/pawan999333/Leetcode_GFG_Solutions/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/pawan999333/Leetcode_GFG_Solutions/tree/master/0268-missing-number) |
 | [0409-longest-palindrome](https://github.com/pawan999333/Leetcode_GFG_Solutions/tree/master/0409-longest-palindrome) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/pawan999333/Leetcode_GFG_Solutions/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/pawan999333/Leetcode_GFG_Solutions/tree/master/1960-check-if-the-sentence-is-pangram) |
@@ -54,6 +58,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/pawan999333/Leetcode_GFG_Solutions/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/pawan999333/Leetcode_GFG_Solutions/tree/master/0268-missing-number) |
 | [2887-sort-vowels-in-a-string](https://github.com/pawan999333/Leetcode_GFG_Solutions/tree/master/2887-sort-vowels-in-a-string) |
 ## Counting
 |  |
@@ -82,4 +87,8 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/pawan999333/Leetcode_GFG_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/pawan999333/Leetcode_GFG_Solutions/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->

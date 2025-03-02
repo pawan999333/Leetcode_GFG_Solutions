@@ -34,6 +34,7 @@
 | [0048-rotate-image](https://github.com/pawan999333/Leetcode_GFG_Solutions/tree/master/0048-rotate-image) |
 | [0268-missing-number](https://github.com/pawan999333/Leetcode_GFG_Solutions/tree/master/0268-missing-number) |
 | [0415-add-strings](https://github.com/pawan999333/Leetcode_GFG_Solutions/tree/master/0415-add-strings) |
+| [1013-fibonacci-number](https://github.com/pawan999333/Leetcode_GFG_Solutions/tree/master/1013-fibonacci-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -91,4 +92,16 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/pawan999333/Leetcode_GFG_Solutions/tree/master/0268-missing-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/pawan999333/Leetcode_GFG_Solutions/tree/master/1013-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/pawan999333/Leetcode_GFG_Solutions/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/pawan999333/Leetcode_GFG_Solutions/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->

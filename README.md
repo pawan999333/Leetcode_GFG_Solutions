@@ -10,6 +10,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/pawan999333/Leetcode_GFG_Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0169-majority-element](https://github.com/pawan999333/Leetcode_GFG_Solutions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/pawan999333/Leetcode_GFG_Solutions/tree/master/0268-missing-number) |
+| [0540-single-element-in-a-sorted-array](https://github.com/pawan999333/Leetcode_GFG_Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0898-transpose-matrix](https://github.com/pawan999333/Leetcode_GFG_Solutions/tree/master/0898-transpose-matrix) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/pawan999333/Leetcode_GFG_Solutions/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1677-matrix-diagonal-sum](https://github.com/pawan999333/Leetcode_GFG_Solutions/tree/master/1677-matrix-diagonal-sum) |
@@ -41,6 +42,7 @@
 | [0074-search-a-2d-matrix](https://github.com/pawan999333/Leetcode_GFG_Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/pawan999333/Leetcode_GFG_Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0268-missing-number](https://github.com/pawan999333/Leetcode_GFG_Solutions/tree/master/0268-missing-number) |
+| [0540-single-element-in-a-sorted-array](https://github.com/pawan999333/Leetcode_GFG_Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 ## Hash Table
 |  |
 | ------- |

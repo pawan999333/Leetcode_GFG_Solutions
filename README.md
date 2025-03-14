@@ -77,6 +77,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/pawan999333/Leetcode_GFG_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/pawan999333/Leetcode_GFG_Solutions/tree/master/0013-roman-to-integer) |
+| [0022-generate-parentheses](https://github.com/pawan999333/Leetcode_GFG_Solutions/tree/master/0022-generate-parentheses) |
 | [0344-reverse-string](https://github.com/pawan999333/Leetcode_GFG_Solutions/tree/master/0344-reverse-string) |
 | [0409-longest-palindrome](https://github.com/pawan999333/Leetcode_GFG_Solutions/tree/master/0409-longest-palindrome) |
 | [0415-add-strings](https://github.com/pawan999333/Leetcode_GFG_Solutions/tree/master/0415-add-strings) |
@@ -100,6 +101,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/pawan999333/Leetcode_GFG_Solutions/tree/master/0022-generate-parentheses) |
 | [1013-fibonacci-number](https://github.com/pawan999333/Leetcode_GFG_Solutions/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
@@ -112,5 +114,6 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/pawan999333/Leetcode_GFG_Solutions/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/pawan999333/Leetcode_GFG_Solutions/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->

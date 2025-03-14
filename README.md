@@ -7,6 +7,7 @@
 | [0048-rotate-image](https://github.com/pawan999333/Leetcode_GFG_Solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/pawan999333/Leetcode_GFG_Solutions/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/pawan999333/Leetcode_GFG_Solutions/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/pawan999333/Leetcode_GFG_Solutions/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/pawan999333/Leetcode_GFG_Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0169-majority-element](https://github.com/pawan999333/Leetcode_GFG_Solutions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/pawan999333/Leetcode_GFG_Solutions/tree/master/0268-missing-number) |
@@ -94,6 +95,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/pawan999333/Leetcode_GFG_Solutions/tree/master/0078-subsets) |
 | [0268-missing-number](https://github.com/pawan999333/Leetcode_GFG_Solutions/tree/master/0268-missing-number) |
 ## Dynamic Programming
 |  |
@@ -107,4 +109,8 @@
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/pawan999333/Leetcode_GFG_Solutions/tree/master/1013-fibonacci-number) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/pawan999333/Leetcode_GFG_Solutions/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->

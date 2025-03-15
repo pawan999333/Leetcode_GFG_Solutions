@@ -35,6 +35,7 @@
 | [0013-roman-to-integer](https://github.com/pawan999333/Leetcode_GFG_Solutions/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/pawan999333/Leetcode_GFG_Solutions/tree/master/0048-rotate-image) |
 | [0268-missing-number](https://github.com/pawan999333/Leetcode_GFG_Solutions/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/pawan999333/Leetcode_GFG_Solutions/tree/master/0342-power-of-four) |
 | [0415-add-strings](https://github.com/pawan999333/Leetcode_GFG_Solutions/tree/master/0415-add-strings) |
 | [1013-fibonacci-number](https://github.com/pawan999333/Leetcode_GFG_Solutions/tree/master/1013-fibonacci-number) |
 ## Binary Search
@@ -98,6 +99,7 @@
 | ------- |
 | [0078-subsets](https://github.com/pawan999333/Leetcode_GFG_Solutions/tree/master/0078-subsets) |
 | [0268-missing-number](https://github.com/pawan999333/Leetcode_GFG_Solutions/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/pawan999333/Leetcode_GFG_Solutions/tree/master/0342-power-of-four) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -106,6 +108,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0342-power-of-four](https://github.com/pawan999333/Leetcode_GFG_Solutions/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/pawan999333/Leetcode_GFG_Solutions/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |

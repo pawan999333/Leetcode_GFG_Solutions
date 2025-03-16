@@ -12,6 +12,7 @@
 | [0169-majority-element](https://github.com/pawan999333/Leetcode_GFG_Solutions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/pawan999333/Leetcode_GFG_Solutions/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/pawan999333/Leetcode_GFG_Solutions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0890-lemonade-change](https://github.com/pawan999333/Leetcode_GFG_Solutions/tree/master/0890-lemonade-change) |
 | [0898-transpose-matrix](https://github.com/pawan999333/Leetcode_GFG_Solutions/tree/master/0898-transpose-matrix) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/pawan999333/Leetcode_GFG_Solutions/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1677-matrix-diagonal-sum](https://github.com/pawan999333/Leetcode_GFG_Solutions/tree/master/1677-matrix-diagonal-sum) |
@@ -91,6 +92,7 @@
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/pawan999333/Leetcode_GFG_Solutions/tree/master/0409-longest-palindrome) |
+| [0890-lemonade-change](https://github.com/pawan999333/Leetcode_GFG_Solutions/tree/master/0890-lemonade-change) |
 ## Sliding Window
 |  |
 | ------- |

@@ -123,4 +123,8 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/pawan999333/Leetcode_GFG_Solutions/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/pawan999333/Leetcode_GFG_Solutions/tree/master/0078-subsets) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/pawan999333/Leetcode_GFG_Solutions/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->

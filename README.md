@@ -111,6 +111,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/pawan999333/Leetcode_GFG_Solutions/tree/master/0206-reverse-linked-list) |
 | [0326-power-of-three](https://github.com/pawan999333/Leetcode_GFG_Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/pawan999333/Leetcode_GFG_Solutions/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/pawan999333/Leetcode_GFG_Solutions/tree/master/1013-fibonacci-number) |
@@ -126,5 +127,6 @@
 ## Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/pawan999333/Leetcode_GFG_Solutions/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/pawan999333/Leetcode_GFG_Solutions/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->

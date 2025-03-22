@@ -75,6 +75,7 @@
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/pawan999333/Leetcode_GFG_Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0061-rotate-list](https://github.com/pawan999333/Leetcode_GFG_Solutions/tree/master/0061-rotate-list) |
 | [0344-reverse-string](https://github.com/pawan999333/Leetcode_GFG_Solutions/tree/master/0344-reverse-string) |
 | [0908-middle-of-the-linked-list](https://github.com/pawan999333/Leetcode_GFG_Solutions/tree/master/0908-middle-of-the-linked-list) |
 ## String
@@ -130,6 +131,7 @@
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/pawan999333/Leetcode_GFG_Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0061-rotate-list](https://github.com/pawan999333/Leetcode_GFG_Solutions/tree/master/0061-rotate-list) |
 | [0206-reverse-linked-list](https://github.com/pawan999333/Leetcode_GFG_Solutions/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/pawan999333/Leetcode_GFG_Solutions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/pawan999333/Leetcode_GFG_Solutions/tree/master/0908-middle-of-the-linked-list) |

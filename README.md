@@ -38,6 +38,7 @@
 | [0268-missing-number](https://github.com/pawan999333/Leetcode_GFG_Solutions/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/pawan999333/Leetcode_GFG_Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/pawan999333/Leetcode_GFG_Solutions/tree/master/0342-power-of-four) |
+| [0367-valid-perfect-square](https://github.com/pawan999333/Leetcode_GFG_Solutions/tree/master/0367-valid-perfect-square) |
 | [0415-add-strings](https://github.com/pawan999333/Leetcode_GFG_Solutions/tree/master/0415-add-strings) |
 | [1013-fibonacci-number](https://github.com/pawan999333/Leetcode_GFG_Solutions/tree/master/1013-fibonacci-number) |
 ## Binary Search
@@ -46,6 +47,7 @@
 | [0074-search-a-2d-matrix](https://github.com/pawan999333/Leetcode_GFG_Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/pawan999333/Leetcode_GFG_Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0268-missing-number](https://github.com/pawan999333/Leetcode_GFG_Solutions/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/pawan999333/Leetcode_GFG_Solutions/tree/master/0367-valid-perfect-square) |
 | [0540-single-element-in-a-sorted-array](https://github.com/pawan999333/Leetcode_GFG_Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 ## Hash Table
 |  |

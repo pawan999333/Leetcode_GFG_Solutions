@@ -16,6 +16,7 @@
 | [0898-transpose-matrix](https://github.com/pawan999333/Leetcode_GFG_Solutions/tree/master/0898-transpose-matrix) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/pawan999333/Leetcode_GFG_Solutions/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1677-matrix-diagonal-sum](https://github.com/pawan999333/Leetcode_GFG_Solutions/tree/master/1677-matrix-diagonal-sum) |
+| [3515-find-if-digit-game-can-be-won](https://github.com/pawan999333/Leetcode_GFG_Solutions/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Matrix
 |  |
 | ------- |
@@ -41,6 +42,7 @@
 | [0367-valid-perfect-square](https://github.com/pawan999333/Leetcode_GFG_Solutions/tree/master/0367-valid-perfect-square) |
 | [0415-add-strings](https://github.com/pawan999333/Leetcode_GFG_Solutions/tree/master/0415-add-strings) |
 | [1013-fibonacci-number](https://github.com/pawan999333/Leetcode_GFG_Solutions/tree/master/1013-fibonacci-number) |
+| [3515-find-if-digit-game-can-be-won](https://github.com/pawan999333/Leetcode_GFG_Solutions/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Binary Search
 |  |
 | ------- |

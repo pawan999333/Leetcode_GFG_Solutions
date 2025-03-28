@@ -122,6 +122,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/pawan999333/Leetcode_GFG_Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/pawan999333/Leetcode_GFG_Solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/pawan999333/Leetcode_GFG_Solutions/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/pawan999333/Leetcode_GFG_Solutions/tree/master/0326-power-of-three) |
@@ -140,6 +141,7 @@
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/pawan999333/Leetcode_GFG_Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0021-merge-two-sorted-lists](https://github.com/pawan999333/Leetcode_GFG_Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/pawan999333/Leetcode_GFG_Solutions/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/pawan999333/Leetcode_GFG_Solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0148-sort-list](https://github.com/pawan999333/Leetcode_GFG_Solutions/tree/master/0148-sort-list) |

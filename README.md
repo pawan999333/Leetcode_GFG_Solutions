@@ -99,6 +99,7 @@
 | [0409-longest-palindrome](https://github.com/pawan999333/Leetcode_GFG_Solutions/tree/master/0409-longest-palindrome) |
 | [0415-add-strings](https://github.com/pawan999333/Leetcode_GFG_Solutions/tree/master/0415-add-strings) |
 | [0742-to-lower-case](https://github.com/pawan999333/Leetcode_GFG_Solutions/tree/master/0742-to-lower-case) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/pawan999333/Leetcode_GFG_Solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1205-defanging-an-ip-address](https://github.com/pawan999333/Leetcode_GFG_Solutions/tree/master/1205-defanging-an-ip-address) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/pawan999333/Leetcode_GFG_Solutions/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2887-sort-vowels-in-a-string](https://github.com/pawan999333/Leetcode_GFG_Solutions/tree/master/2887-sort-vowels-in-a-string) |
@@ -107,6 +108,7 @@
 | ------- |
 | [0409-longest-palindrome](https://github.com/pawan999333/Leetcode_GFG_Solutions/tree/master/0409-longest-palindrome) |
 | [0890-lemonade-change](https://github.com/pawan999333/Leetcode_GFG_Solutions/tree/master/0890-lemonade-change) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/pawan999333/Leetcode_GFG_Solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 ## Sliding Window
 |  |
 | ------- |
@@ -157,6 +159,7 @@
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/pawan999333/Leetcode_GFG_Solutions/tree/master/0234-palindrome-linked-list) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/pawan999333/Leetcode_GFG_Solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 ## Merge Sort
 |  |
 | ------- |

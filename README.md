@@ -105,6 +105,7 @@
 | [0742-to-lower-case](https://github.com/pawan999333/Leetcode_GFG_Solutions/tree/master/0742-to-lower-case) |
 | [0874-backspace-string-compare](https://github.com/pawan999333/Leetcode_GFG_Solutions/tree/master/0874-backspace-string-compare) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/pawan999333/Leetcode_GFG_Solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/pawan999333/Leetcode_GFG_Solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1205-defanging-an-ip-address](https://github.com/pawan999333/Leetcode_GFG_Solutions/tree/master/1205-defanging-an-ip-address) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/pawan999333/Leetcode_GFG_Solutions/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2887-sort-vowels-in-a-string](https://github.com/pawan999333/Leetcode_GFG_Solutions/tree/master/2887-sort-vowels-in-a-string) |
@@ -168,6 +169,7 @@
 | [0234-palindrome-linked-list](https://github.com/pawan999333/Leetcode_GFG_Solutions/tree/master/0234-palindrome-linked-list) |
 | [0874-backspace-string-compare](https://github.com/pawan999333/Leetcode_GFG_Solutions/tree/master/0874-backspace-string-compare) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/pawan999333/Leetcode_GFG_Solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/pawan999333/Leetcode_GFG_Solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 ## Merge Sort
 |  |
 | ------- |

@@ -52,6 +52,7 @@
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/pawan999333/Leetcode_GFG_Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/pawan999333/Leetcode_GFG_Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0222-count-complete-tree-nodes](https://github.com/pawan999333/Leetcode_GFG_Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/pawan999333/Leetcode_GFG_Solutions/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/pawan999333/Leetcode_GFG_Solutions/tree/master/0367-valid-perfect-square) |
 | [0540-single-element-in-a-sorted-array](https://github.com/pawan999333/Leetcode_GFG_Solutions/tree/master/0540-single-element-in-a-sorted-array) |
@@ -124,6 +125,7 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/pawan999333/Leetcode_GFG_Solutions/tree/master/0078-subsets) |
+| [0222-count-complete-tree-nodes](https://github.com/pawan999333/Leetcode_GFG_Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/pawan999333/Leetcode_GFG_Solutions/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/pawan999333/Leetcode_GFG_Solutions/tree/master/0342-power-of-four) |
 ## Dynamic Programming
@@ -187,4 +189,12 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/pawan999333/Leetcode_GFG_Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/pawan999333/Leetcode_GFG_Solutions/tree/master/0232-implement-queue-using-stacks) |
+## Tree
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/pawan999333/Leetcode_GFG_Solutions/tree/master/0222-count-complete-tree-nodes) |
+## Binary Tree
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/pawan999333/Leetcode_GFG_Solutions/tree/master/0222-count-complete-tree-nodes) |
 <!---LeetCode Topics End-->
